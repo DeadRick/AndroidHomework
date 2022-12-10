@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FirstApp</string>
+    <string name="app_name">4thApp</string>
+    <string name="myName">Демьяненко Виктор Николаевич БПИ217</string>
+    <string name="textview">TextView</string>
 </resources>
