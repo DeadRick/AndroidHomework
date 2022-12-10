@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FirstApp</string>
+    <string name="myName">Демьяненко Виктор Николаевич БПИ217</string>
+    <string name="buttonName">NEXT</string>
+    <string name="firstActivivty">1st activity</string>
+    <string name="secondActivity">2nd activity</string>
+    <string name="textAbove">You entered this:</string>
+    <string name="pressBack">BACK</string>
 </resources>
